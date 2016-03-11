@@ -39,6 +39,9 @@ Max web font package with font files, less, scss, and CSS.  Why? Because Google'
   max-font-path: '../font';
   ```
   
+## Quelle ##
+
+http://ufonts.com/search/max
 
 ## Development Info ##
 * Homepage: https://github.com/orianda/font-max
