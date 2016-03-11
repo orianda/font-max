@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Max';
+    src: url('#{$max-font-path}/max-book-italic-none-common/max-book-italic-none-common.eot');
+    src: local('Max Book'),
+         local('Max-Book'),
+         url('#{$max-font-path}/max-book-italic-none-common/max-book-italic-none-common.eot?#iefix') format('embedded-opentype'),
+         url('#{$max-font-path}/max-book-italic-none-common/max-book-italic-none-common.woff2') format('woff2'),
+         url('#{$max-font-path}/max-book-italic-none-common/max-book-italic-none-common.woff') format('woff'),
+         url('#{$max-font-path}/max-book-italic-none-common/max-book-italic-none-common.ttf') format('truetype'),
+         url('#{$max-font-path}/max-book-italic-none-common/max-book-italic-none-common.svg#max-bookitalicregular') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    text-transform: none;
+}

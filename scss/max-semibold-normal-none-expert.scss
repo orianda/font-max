@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Max Expert';
+    src: url('#{$max-font-path}/max-semibold-normal-none-expert/max-semibold-normal-none-expert.eot');
+    src: local('Max Semibold Expert'),
+         local('Max-Semibold-Expert'),
+         url('#{$max-font-path}/max-semibold-normal-none-expert/max-semibold-normal-none-expert.eot?#iefix') format('embedded-opentype'),
+         url('#{$max-font-path}/max-semibold-normal-none-expert/max-semibold-normal-none-expert.woff2') format('woff2'),
+         url('#{$max-font-path}/max-semibold-normal-none-expert/max-semibold-normal-none-expert.woff') format('woff'),
+         url('#{$max-font-path}/max-semibold-normal-none-expert/max-semibold-normal-none-expert.ttf') format('truetype'),
+         url('#{$max-font-path}/max-semibold-normal-none-expert/max-semibold-normal-none-expert.svg#max-semiboldexpertregular') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    text-transform: none;
+}

@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Max Expert';
+    src: url('#{$max-font-path}/max-extrabold-italic-caps-expert/max-extrabold-italic-caps-expert.eot');
+    src: local('Max Extrabold Expert'),
+         local('Max-Extrabold-Expert'),
+         url('#{$max-font-path}/max-extrabold-italic-caps-expert/max-extrabold-italic-caps-expert.eot?#iefix') format('embedded-opentype'),
+         url('#{$max-font-path}/max-extrabold-italic-caps-expert/max-extrabold-italic-caps-expert.woff2') format('woff2'),
+         url('#{$max-font-path}/max-extrabold-italic-caps-expert/max-extrabold-italic-caps-expert.woff') format('woff'),
+         url('#{$max-font-path}/max-extrabold-italic-caps-expert/max-extrabold-italic-caps-expert.ttf') format('truetype'),
+         url('#{$max-font-path}/max-extrabold-italic-caps-expert/max-extrabold-italic-caps-expert.svg#max-extrabolditalicscexpertRg') format('svg');
+    font-weight: 800;
+    font-style: italic;
+    text-transform: capitalize;
+}

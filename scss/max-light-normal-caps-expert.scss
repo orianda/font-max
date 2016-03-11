@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Max Expert';
+    src: url('#{$max-font-path}/max-light-normal-caps-expert/max-light-normal-caps-expert.eot');
+    src: local('Max Light Expert'),
+         local('Max-Light-Expert'),
+         url('#{$max-font-path}/max-light-normal-caps-expert/max-light-normal-caps-expert.eot?#iefix') format('embedded-opentype'),
+         url('#{$max-font-path}/max-light-normal-caps-expert/max-light-normal-caps-expert.woff2') format('woff2'),
+         url('#{$max-font-path}/max-light-normal-caps-expert/max-light-normal-caps-expert.woff') format('woff'),
+         url('#{$max-font-path}/max-light-normal-caps-expert/max-light-normal-caps-expert.ttf') format('truetype'),
+         url('#{$max-font-path}/max-light-normal-caps-expert/max-light-normal-caps-expert.svg#max-lightscexpertregular') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    text-transform: capitalize;
+}

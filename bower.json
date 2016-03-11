@@ -1,0 +1,96 @@
+{
+  "name": "font-max",
+  "version": "1.0.0",
+  "description": "Max Web Font Package",
+  "main": [
+    "./css/max.css",
+    "./font/*"
+  ],
+  "authors": [
+    "orianda <orianda@paan.de>"
+  ],
+  "license": [
+    {
+      "covers": "software",
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    },
+    {
+      "covers": "fonts",
+      "type": "OFL-1.1",
+      "url": "http://scripts.sil.org/OFL"
+    }
+  ],
+  "keywords": [
+    "max",
+    "max-black-italic-caps",
+    "max-black-italic-caps-expert",
+    "max-black-italic",
+    "max-black-italic-expert",
+    "max-black-caps",
+    "max-black-caps-expert",
+    "max-black",
+    "max-black-expert",
+    "max-bold-italic-caps",
+    "max-bold-italic-caps-expert",
+    "max-bold-italic",
+    "max-bold-italic-expert",
+    "max-bold-caps",
+    "max-bold-caps-expert",
+    "max-bold-expert",
+    "max-book-italic-caps",
+    "max-book-italic-caps-expert",
+    "max-book-italic",
+    "max-book-italic-expert",
+    "max-book-caps",
+    "max-book-caps-expert",
+    "max-book",
+    "max-book-expert",
+    "max-extrabold-italic-caps",
+    "max-extrabold-italic-caps-expert",
+    "max-extrabold-italic",
+    "max-extrabold-italic-expert",
+    "max-extrabold-caps",
+    "max-extrabold-caps-expert",
+    "max-extrabold",
+    "max-extrabold-expert",
+    "max-light-italic-caps",
+    "max-light-italic-caps-expert",
+    "max-light-italic",
+    "max-light-italic-expert",
+    "max-light-caps",
+    "max-light-caps-expert",
+    "max-light",
+    "max-light-expert",
+    "max-regular-italic-caps",
+    "max-regular-italic-caps-expert",
+    "max-regular-italic",
+    "max-regular-italic-expert",
+    "max-regular-caps",
+    "max-regular-caps-expert",
+    "max-regular",
+    "max-regular-expert",
+    "max-semibold-italic-caps",
+    "max-semibold-italic-caps-expert",
+    "max-semibold-italic",
+    "max-semibold-italic-expert",
+    "max-semibold-caps",
+    "max-semibold-caps-expert",
+    "max-semibold",
+    "max-semibold-expert",
+    "webfont",
+    "web",
+    "font"
+  ],
+  "homepage": "https://github.com/orianda/font-max",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

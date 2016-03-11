@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Max';
+    src: url('#{$max-font-path}/max-bold-normal-none-common/max-bold-normal-none-common.eot');
+    src: local('Max Bold'),
+         local('Max-Bold'),
+         url('#{$max-font-path}/max-bold-normal-none-common/max-bold-normal-none-common.eot?#iefix') format('embedded-opentype'),
+         url('#{$max-font-path}/max-bold-normal-none-common/max-bold-normal-none-common.woff2') format('woff2'),
+         url('#{$max-font-path}/max-bold-normal-none-common/max-bold-normal-none-common.woff') format('woff'),
+         url('#{$max-font-path}/max-bold-normal-none-common/max-bold-normal-none-common.ttf') format('truetype'),
+         url('#{$max-font-path}/max-bold-normal-none-common/max-bold-normal-none-common.svg#max-boldexpertregular') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    text-transform: none;
+}
