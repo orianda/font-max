@@ -4,31 +4,34 @@ Max web font package with font files, less, scss, and CSS.  Why? Because Google'
 
 ## Use ##
 
-1. Use Bower to install the max package
-  ```sh
+1. Use either NPM or Bower to install the max package
+  ```bash
+  npm install font-max --save
+  ```
+  ```bash
   bower install font-max --save
   ```
 
 2. Import the max.less, max.scss or max.css file into your project
   ```css
-  @import: "../some/path/font-max/css/max.css";
+  @import "../some/path/font-max/css/max.css";
   ```
   ```less
-  @import: "../some/path/font-max/less/max.less";
+  @import "../some/path/font-max/less/max.less";
   ```
   ```scss
-  @import: "../some/path/font-max/scss/max";
+  @import "../some/path/font-max/scss/max";
   ```
   
   If you just need the regular font without the expert one, then import just `common` packages
   ```css
-  @import: "../some/path/font-max/css/max-common.css";
+  @import "../some/path/font-max/css/max-common.css";
   ```
   ```less
-  @import: "../some/path/font-max/less/max-common.less";
+  @import "../some/path/font-max/less/max-common.less";
   ```
   ```scss
-  @import: "../some/path/font-max/scss/max-common";
+  @import "../some/path/font-max/scss/max-common";
   ```
 
 3. Override the Max font path if nessesary 
